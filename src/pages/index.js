@@ -1,11 +1,11 @@
 import React from "react";
+import Header from "../components/header";
 import Link from "gatsby-link";
 
 export default () => (
   <div style={{ color: `purple` }}>
-    <h1>Hello Gatsby!</h1>
-
+    <Header headerText="About Gatsby" />
+    <Link to="/phrase1/">phrase1</Link>
     <p>What a world.</p>
-    <img src="https://source.unsplash.com/random/400x200" alt="" />
   </div>
 );
