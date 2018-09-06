@@ -1,0 +1,2046 @@
+[
+  {
+    "phraseId": 93,
+    "title": "(aircraft call sign) cleared to."
+  },
+  {
+    "phraseId": 447,
+    "title": "(aircraft call sign) low altitude warning, check your altitude immediately, qnh is (number) [(units)]. [the minimum flight altitude is (altitude)]."
+  },
+  {
+    "phraseId": 285,
+    "title": "(aircraft call sign) not released [until (time or significant point)]."
+  },
+  {
+    "phraseId": 283,
+    "title": "(aircraft call sign) released [at (time)] [conditions/restrictions]."
+  },
+  {
+    "phraseId": 292,
+    "title": "(aircraft call sign) request approved [(restriction if any)]."
+  },
+  {
+    "phraseId": 448,
+    "title": "(aircraft call sign) terrain alert, (suggested pilot action, if possible)."
+  },
+  {
+    "phraseId": 293,
+    "title": "(aircraft call sign) unable (alternative instructions)."
+  },
+  {
+    "phraseId": 278,
+    "title": "(aircraft type) (destination)."
+  },
+  {
+    "phraseId": 239,
+    "title": "(aircraft type) (position) (level) information (atis identification) for landing."
+  },
+  {
+    "phraseId": 55,
+    "title": "(aircraft type) reported (description) icing (or turbulence) [in cloud] (area) (time)."
+  },
+  {
+    "phraseId": 218,
+    "title": "(condition) line up (brief reiteration of the condition)"
+  },
+  {
+    "phraseId": 385,
+    "title": "(distance) from touchdown altitude (or height) should be (numbers and units)."
+  },
+  {
+    "phraseId": 386,
+    "title": "(distance) from touchdown."
+  },
+  {
+    "phraseId": 413,
+    "title": "(distance) from touchdown."
+  },
+  {
+    "phraseId": 412,
+    "title": "(distance) from touchdown. altitude (or height) should be (numbers and units)."
+  },
+  {
+    "phraseId": 351,
+    "title": "(manoeuvre, squawk or ident) observed. position (position of aircraft). [(instructions)]."
+  },
+  {
+    "phraseId": 92,
+    "title": "(name of unit) clears (aircraft call sign)."
+  },
+  {
+    "phraseId": 401,
+    "title": "(number) metres left (or right) of track."
+  },
+  {
+    "phraseId": 240,
+    "title": "(position in circuit, e.g. downwind/final)."
+  },
+  {
+    "phraseId": 100,
+    "title": "(route) not available due (reason) alternative[s] is/are (routes) advise."
+  },
+  {
+    "phraseId": 76,
+    "title": "(specify visual or non-visual aid) runway (number) (description of deficiency)."
+  },
+  {
+    "phraseId": 127,
+    "title": "(standard departure name and number) departure"
+  },
+  {
+    "phraseId": 220,
+    "title": "(traffic information) runway (number) cleared for take-off."
+  },
+  {
+    "phraseId": 247,
+    "title": "(traffic information) runway (number) cleared to land."
+  },
+  {
+    "phraseId": 80,
+    "title": "(type of visual approach slope indicator) runway (number) (description of deficiency)."
+  },
+  {
+    "phraseId": 363,
+    "title": "(type) approach not available due (reason) (alternative instructions)."
+  },
+  {
+    "phraseId": 77,
+    "title": "(type) lighting (unserviceability)."
+  },
+  {
+    "phraseId": 64,
+    "title": "[(location)] runway surface condition runway (number) (condition)."
+  },
+  {
+    "phraseId": 65,
+    "title": "[(location)] runway surface condition runway (number) not current."
+  },
+  {
+    "phraseId": 40,
+    "title": "[additional] traffic (direction) bound (type of aircraft) (level) estimated (or over) (significant point) at (time)."
+  },
+  {
+    "phraseId": 124,
+    "title": "[after departure] turn right (or left) heading (three digits) (or continue runway heading) (or track extended centre line) to (level or significant point) [(other instructions as required)]."
+  },
+  {
+    "phraseId": 173,
+    "title": "[aircraft location] request pushback."
+  },
+  {
+    "phraseId": 168,
+    "title": "[aircraft location] request start up"
+  },
+  {
+    "phraseId": 169,
+    "title": "[aircraft location] request start up, information (atis identification)."
+  },
+  {
+    "phraseId": 236,
+    "title": "[aircraft type] (position) (level) for landing."
+  },
+  {
+    "phraseId": 182,
+    "title": "[aircraft type] [wake turbulence category if “heavy”] [aircraft location] [flight rules] [to (aerodrome of destination)] request taxi [intentions]."
+  },
+  {
+    "phraseId": 184,
+    "title": "[aircraft type] [wake turbulence category if “heavy”] request detailed taxi instructions."
+  },
+  {
+    "phraseId": 300,
+    "title": "[all stations] cpdlc failure (instructions)."
+  },
+  {
+    "phraseId": 304,
+    "title": "[all stations] resume normal cpdlc operations."
+  },
+  {
+    "phraseId": 303,
+    "title": "[all stations] stop sending cpdlc requests [until advised] [(reason)]."
+  },
+  {
+    "phraseId": 449,
+    "title": "[are you] ready to start up?"
+  },
+  {
+    "phraseId": 203,
+    "title": "[caution] taxi slower [reason]."
+  },
+  {
+    "phraseId": 171,
+    "title": "[expect] start up at (time or own discretion)."
+  },
+  {
+    "phraseId": 347,
+    "title": "[if] radio contact lost (instructions)."
+  },
+  {
+    "phraseId": 294,
+    "title": "[inbound release] (aircraft call sign) [squawking (ssr code)] (type) from (departure point) released at (significant point, or time, or level) cleared to and estimating (clearance limit) (time) at (level) [expected approach time or no delay expected] contact at (time)."
+  },
+  {
+    "phraseId": 279,
+    "title": "[squawking (ssr code)] [estimated] (significant point) (time) at (level)."
+  },
+  {
+    "phraseId": 407,
+    "title": "[still] (number) metres (or feet) too high (or too low)."
+  },
+  {
+    "phraseId": 42,
+    "title": "[surface] wind (number) degrees (speed) (units)."
+  },
+  {
+    "phraseId": 465,
+    "title": "0"
+  },
+  {
+    "phraseId": 466,
+    "title": "1"
+  },
+  {
+    "phraseId": 467,
+    "title": "2"
+  },
+  {
+    "phraseId": 468,
+    "title": "3"
+  },
+  {
+    "phraseId": 469,
+    "title": "4"
+  },
+  {
+    "phraseId": 470,
+    "title": "5"
+  },
+  {
+    "phraseId": 471,
+    "title": "6"
+  },
+  {
+    "phraseId": 472,
+    "title": "7"
+  },
+  {
+    "phraseId": 473,
+    "title": "8"
+  },
+  {
+    "phraseId": 474,
+    "title": "9"
+  },
+  {
+    "phraseId": 478,
+    "title": "azzzzcknowledge"
+  },
+  {
+    "phraseId": 167,
+    "title": "acknowledge by flashing landing lights."
+  },
+  {
+    "phraseId": 165,
+    "title": "acknowledge by moving ailerons (or rudder)."
+  },
+  {
+    "phraseId": 166,
+    "title": "acknowledge by rocking wings."
+  },
+  {
+    "phraseId": 408,
+    "title": "adjust rate of descent."
+  },
+  {
+    "phraseId": 357,
+    "title": "ads-b out of service (appropriate information as necessary)."
+  },
+  {
+    "phraseId": 446,
+    "title": "ads-c (or ads-contract) out of service (appropriate information as necessary)."
+  },
+  {
+    "phraseId": 143,
+    "title": "advise able to accept visual approach runway (number)."
+  },
+  {
+    "phraseId": 426,
+    "title": "advise ads-b capability."
+  },
+  {
+    "phraseId": 118,
+    "title": "advise if able to cross (significant point) at (time or level)"
+  },
+  {
+    "phraseId": 121,
+    "title": "advise if able to proceed parallel offset"
+  },
+  {
+    "phraseId": 425,
+    "title": "advise transponder capability."
+  },
+  {
+    "phraseId": 479,
+    "title": "affirm"
+  },
+  {
+    "phraseId": 227,
+    "title": "after departure turn right (or left, or climb) (instructions as appropriate)."
+  },
+  {
+    "phraseId": 232,
+    "title": "after passing (level) (instructions)"
+  },
+  {
+    "phraseId": 14,
+    "title": "after passing (significant point)."
+  },
+  {
+    "phraseId": 125,
+    "title": "after reaching (or passing) (level or significant point) (instructions)."
+  },
+  {
+    "phraseId": 288,
+    "title": "agreed to (alteration of clearance) of (aircraft call sign)."
+  },
+  {
+    "phraseId": 273,
+    "title": "air-taxi to (or via) (location or routing as appropriate) [caution (dust, blowing snow, loose debris, taxiing light aircraft, personnel, etc.)]."
+  },
+  {
+    "phraseId": 196,
+    "title": "air-taxi to (or via) (location or routing as appropriate) [caution (dust, blowing snow, loose debris, taxiing light aircraft, personnel, etc.)]."
+  },
+  {
+    "phraseId": 272,
+    "title": "air-taxi to helicopter stand (or) helicopter parking position (area)."
+  },
+  {
+    "phraseId": 274,
+    "title": "air-taxi via (direct, as requested, or specified route) to (location, heliport, operating or movement area, active or inactive runway). avoid (aircraft or vehicles or personnel)."
+  },
+  {
+    "phraseId": 197,
+    "title": "air-taxi via (direct, as requested, or specified route) to (location, heliport, operating or movement area, active or inactive runway). avoid (aircraft or vehicles or personnel)."
+  },
+  {
+    "phraseId": 420,
+    "title": "approach completed [contact (unit)]."
+  },
+  {
+    "phraseId": 391,
+    "title": "approach completed [contact (unit)]."
+  },
+  {
+    "phraseId": 383,
+    "title": "approach instructions will be terminated at (distance) from touchdown."
+  },
+  {
+    "phraseId": 402,
+    "title": "approaching glide path."
+  },
+  {
+    "phraseId": 291,
+    "title": "approval request (aircraft call sign) estimated departure from (significant point) at (time)."
+  },
+  {
+    "phraseId": 480,
+    "title": "approved"
+  },
+  {
+    "phraseId": 150,
+    "title": "are you familiar with (name) approach procedure."
+  },
+  {
+    "phraseId": 423,
+    "title": "are you going around?"
+  },
+  {
+    "phraseId": 214,
+    "title": "are you ready [for [immediate] departure]?"
+  },
+  {
+    "phraseId": 450,
+    "title": "are you ready for pushback?"
+  },
+  {
+    "phraseId": 6,
+    "title": "at (number) metres per second (or feet per minute) [or greater (or or less)]."
+  },
+  {
+    "phraseId": 26,
+    "title": "at (or over) (time or place) [or when] [passing/leaving/reaching (level)] contact (unit call sign) (frequency)."
+  },
+  {
+    "phraseId": 114,
+    "title": "attention all aircraft in the vicinity of [or at] (significant point or location) emergency descent in progress from (level) (followed as necessary by specific instructions, clearances, traffic information, etc.)."
+  },
+  {
+    "phraseId": 199,
+    "title": "backtrack approved."
+  },
+  {
+    "phraseId": 200,
+    "title": "backtrack runway (number)."
+  },
+  {
+    "phraseId": 88,
+    "title": "basic gnss (or sbas, or gbas) unavailable for (specify operation) [from (time) to (time) (or until further notice)]."
+  },
+  {
+    "phraseId": 89,
+    "title": "basic gnss unavailable [due to (reason, e.g. loss of raim or raim alert)]."
+  },
+  {
+    "phraseId": 72,
+    "title": "braking action [(location)] (measuring equipment used), runway (number), temperature [minus] (number), was (reading) at (time)."
+  },
+  {
+    "phraseId": 71,
+    "title": "braking action reported by (aircraft type) at (time) good (or medium, or poor)."
+  },
+  {
+    "phraseId": 481,
+    "title": "break"
+  },
+  {
+    "phraseId": 482,
+    "title": "break break"
+  },
+  {
+    "phraseId": 483,
+    "title": "cancel"
+  },
+  {
+    "phraseId": 123,
+    "title": "cancel offset (instructions to rejoin cleared flight route or other information)."
+  },
+  {
+    "phraseId": 68,
+    "title": "caution (specify reasons) right (or left), (or both sides) of runway [number]."
+  },
+  {
+    "phraseId": 67,
+    "title": "caution construction work (location)."
+  },
+  {
+    "phraseId": 265,
+    "title": "caution jet blast"
+  },
+  {
+    "phraseId": 266,
+    "title": "caution slipstream"
+  },
+  {
+    "phraseId": 264,
+    "title": "caution wake turbulence [from arriving (or departing) (type of aircraft)] [additional information as required]."
+  },
+  {
+    "phraseId": 69,
+    "title": "caution work in progress (or obstruction) (position and any necessary advice)."
+  },
+  {
+    "phraseId": 51,
+    "title": "cavok."
+  },
+  {
+    "phraseId": 37,
+    "title": "change your call sign to (new call sign) [until further advised]."
+  },
+  {
+    "phraseId": 509,
+    "title": "channels in vhf 1/2"
+  },
+  {
+    "phraseId": 510,
+    "title": "channels in vhf 2/2"
+  },
+  {
+    "phraseId": 484,
+    "title": "check"
+  },
+  {
+    "phraseId": 442,
+    "title": "check altimeter setting and confirm (level)."
+  },
+  {
+    "phraseId": 417,
+    "title": "check decision altitude (or height)."
+  },
+  {
+    "phraseId": 387,
+    "title": "check gear down [and locked]."
+  },
+  {
+    "phraseId": 416,
+    "title": "check gear down and locked."
+  },
+  {
+    "phraseId": 256,
+    "title": "circle the aerodrome"
+  },
+  {
+    "phraseId": 21,
+    "title": "clear of conflict (assigned clearance) resumed"
+  },
+  {
+    "phraseId": 20,
+    "title": "clear of conflict, returning to (assigned clearance)."
+  },
+  {
+    "phraseId": 344,
+    "title": "clear of traffic [appropriate instructions]."
+  },
+  {
+    "phraseId": 485,
+    "title": "cleared"
+  },
+  {
+    "phraseId": 153,
+    "title": "cleared (mls/rnav plain-language designator)."
+  },
+  {
+    "phraseId": 157,
+    "title": "cleared (or proceed) to (significant point, name of facility or fix) [maintain (or climb or descend to) (level)] hold [(direction)] [(specified) radial, course, inbound track (three digits) degrees] [right (or left) hand pattern] [outbound time (number) minutes] expect approach clearance (or further clearance) at (time) (additional instructions, if necessary)."
+  },
+  {
+    "phraseId": 155,
+    "title": "cleared (or proceed) to (significant point, name of facility or fix) [maintain (or climb or descend to) (level)] hold [(direction)] as published expect approach clearance (or further clearance) at (time)."
+  },
+  {
+    "phraseId": 130,
+    "title": "cleared (or proceed) via (designation)."
+  },
+  {
+    "phraseId": 132,
+    "title": "cleared (or proceed) via (details of route to be followed)"
+  },
+  {
+    "phraseId": 133,
+    "title": "cleared (type of approach) approach [runway (number)]."
+  },
+  {
+    "phraseId": 134,
+    "title": "cleared (type of approach) runway (number) followed by circling to runway (number)."
+  },
+  {
+    "phraseId": 135,
+    "title": "cleared approach [runway (number)]."
+  },
+  {
+    "phraseId": 377,
+    "title": "cleared for (type of approach) approach runway (number) left (or right)."
+  },
+  {
+    "phraseId": 367,
+    "title": "cleared for (type of approach) approach runway (number)."
+  },
+  {
+    "phraseId": 225,
+    "title": "cleared for take-off [from (location)] (present position, taxiway, final approach and take-off area, runway and number)."
+  },
+  {
+    "phraseId": 99,
+    "title": "cleared from (location) to (location)., followed as necessary by: 1) direct. 2) via (route and/or significant points). 3) via flight planned route. 4) via (distance) dme arc (direction) of (name of dme station)."
+  },
+  {
+    "phraseId": 251,
+    "title": "cleared low approach [runway (number)] [(altitude restriction if required) (go around instructions)]."
+  },
+  {
+    "phraseId": 253,
+    "title": "cleared low pass [runway (number)] [(altitude restriction if required) (go around instructions)]."
+  },
+  {
+    "phraseId": 138,
+    "title": "cleared straight-in [(type of approach)] approach [runway (number)]."
+  },
+  {
+    "phraseId": 131,
+    "title": "cleared to (clearance limit) via (designation)."
+  },
+  {
+    "phraseId": 158,
+    "title": "cleared to the (three digits) radial of the (name) vor at (distance) dme fix [maintain (or climb or descend to) (level)] hold [(direction)] [right (or left) hand pattern] [outbound time (number) minutes] expect approach clearance (or further clearance) at (time) (additional instructions,if necessary)."
+  },
+  {
+    "phraseId": 159,
+    "title": "cleared to the (three digits) radial of the (name) vor at (distance) dme fix [maintain (or climb or descend to) (level)] hold between (distance) and (distance) dme [right (or left) hand pattern] expect approach clearance (or further clearance) at (time) (additional instructions, if necessary)."
+  },
+  {
+    "phraseId": 248,
+    "title": "cleared touch and go"
+  },
+  {
+    "phraseId": 129,
+    "title": "cleared via (designation)."
+  },
+  {
+    "phraseId": 144,
+    "title": "cleared visual approach runway (number), maintain own separation from preceding (aircraft type and wake turbulence category as appropriate) [caution wake turbulence]."
+  },
+  {
+    "phraseId": 142,
+    "title": "cleared visual approach runway (number)."
+  },
+  {
+    "phraseId": 5,
+    "title": "climb [or descend] to and maintain block (level) to (level)."
+  },
+  {
+    "phraseId": 3,
+    "title": "climb [or descend] to reach (level) at (or by) (time or significant point)"
+  },
+  {
+    "phraseId": 235,
+    "title": "climb straight ahead (instructions)."
+  },
+  {
+    "phraseId": 381,
+    "title": "climb to (altitude) immediately to avoid traffic [deviating from adjacent approach] (further instructions)."
+  },
+  {
+    "phraseId": 1,
+    "title": "climb to (level)"
+  },
+  {
+    "phraseId": 23,
+    "title": "climb to (level) [level restriction(s) (sid designator) cancelled (or) level restriction(s) (sid designator) at (point) cancelled]."
+  },
+  {
+    "phraseId": 397,
+    "title": "closing [slowly (or quickly)] [from the left (or from the right)]."
+  },
+  {
+    "phraseId": 369,
+    "title": "closing from left (or right) [report established]."
+  },
+  {
+    "phraseId": 50,
+    "title": "cloud (amount, [(type)] and height of base) (units) (or sky clear)."
+  },
+  {
+    "phraseId": 409,
+    "title": "coming back [slowly (or quickly)] to the glide path."
+  },
+  {
+    "phraseId": 136,
+    "title": "commence approach at (time)."
+  },
+  {
+    "phraseId": 403,
+    "title": "commence descent now [at (number) metres per second or (number) feet per minute (or establish a (number) degree glide path)]."
+  },
+  {
+    "phraseId": 384,
+    "title": "commence descent now [to maintain a (number) degree glide path]."
+  },
+  {
+    "phraseId": 452,
+    "title": "commencing pushback."
+  },
+  {
+    "phraseId": 486,
+    "title": "confirm"
+  },
+  {
+    "phraseId": 445,
+    "title": "confirm (level)."
+  },
+  {
+    "phraseId": 86,
+    "title": "confirm able to resume rvsm"
+  },
+  {
+    "phraseId": 451,
+    "title": "confirm brakes released."
+  },
+  {
+    "phraseId": 454,
+    "title": "confirm brakes set"
+  },
+  {
+    "phraseId": 33,
+    "title": "confirm eight point three three"
+  },
+  {
+    "phraseId": 35,
+    "title": "confirm eight point three three exempted"
+  },
+  {
+    "phraseId": 81,
+    "title": "confirm rvsm approved"
+  },
+  {
+    "phraseId": 431,
+    "title": "confirm squawk (code)."
+  },
+  {
+    "phraseId": 34,
+    "title": "confirm uhf"
+  },
+  {
+    "phraseId": 487,
+    "title": "contact"
+  },
+  {
+    "phraseId": 25,
+    "title": "contact (unit call sign) (frequency) [now]."
+  },
+  {
+    "phraseId": 267,
+    "title": "contact ground (frequency)."
+  },
+  {
+    "phraseId": 245,
+    "title": "continue approach [prepare for possible go around]."
+  },
+  {
+    "phraseId": 9,
+    "title": "continue climb (or descent) to (level)."
+  },
+  {
+    "phraseId": 313,
+    "title": "continue heading (three digits)."
+  },
+  {
+    "phraseId": 314,
+    "title": "continue present heading"
+  },
+  {
+    "phraseId": 233,
+    "title": "continue runway heading (instructions)."
+  },
+  {
+    "phraseId": 421,
+    "title": "continue visually or go around [missed approach instructions]."
+  },
+  {
+    "phraseId": 488,
+    "title": "correct"
+  },
+  {
+    "phraseId": 489,
+    "title": "correction"
+  },
+  {
+    "phraseId": 301,
+    "title": "cpdlc message failure (appropriate clearance, instruction, information or request)."
+  },
+  {
+    "phraseId": 112,
+    "title": "cross (distance) miles, (gnss or dme) [(direction)] of (name of dme station) or (distance) [(direction)] of (significant point) at (or above or below) (level)."
+  },
+  {
+    "phraseId": 109,
+    "title": "cross (significant point) at (or above, or below) (level)."
+  },
+  {
+    "phraseId": 117,
+    "title": "cross (significant point) at (time) [or later (or or before)]."
+  },
+  {
+    "phraseId": 110,
+    "title": "cross (significant point) at (time) or later (or before) at (level)."
+  },
+  {
+    "phraseId": 209,
+    "title": "cross runway (number) [report vacated]"
+  },
+  {
+    "phraseId": 111,
+    "title": "cruise climb between (levels) (or above (level))."
+  },
+  {
+    "phraseId": 475,
+    "title": "decimal"
+  },
+  {
+    "phraseId": 163,
+    "title": "delay not determined (reasons)."
+  },
+  {
+    "phraseId": 2,
+    "title": "descend to (level)"
+  },
+  {
+    "phraseId": 24,
+    "title": "descend to (level) [level restriction(s) (star designator) cancelled (or) level restriction(s) (star designator) at (point) cancelled]."
+  },
+  {
+    "phraseId": 455,
+    "title": "disconnect"
+  },
+  {
+    "phraseId": 490,
+    "title": "disregard"
+  },
+  {
+    "phraseId": 302,
+    "title": "disregard cpdlc (message type) message, break (correct clearance, instruction, information or request)."
+  },
+  {
+    "phraseId": 395,
+    "title": "do not acknowledge further transmissions"
+  },
+  {
+    "phraseId": 330,
+    "title": "do not exceed (number) kilometres per hour (or knots)."
+  },
+  {
+    "phraseId": 120,
+    "title": "do not exceed mach (number)."
+  },
+  {
+    "phraseId": 343,
+    "title": "do you want vectors?"
+  },
+  {
+    "phraseId": 36,
+    "title": "due eight point three three requirement"
+  },
+  {
+    "phraseId": 411,
+    "title": "elevation element unserviceable (to be followed by appropriate instructions)."
+  },
+  {
+    "phraseId": 113,
+    "title": "emergency descent (intentions)."
+  },
+  {
+    "phraseId": 96,
+    "title": "enter controlled airspace (or control zone) [via (significant point or route)] at (level) [at (time)]."
+  },
+  {
+    "phraseId": 276,
+    "title": "estimate (significant point) on (aircraft call sign)."
+  },
+  {
+    "phraseId": 275,
+    "title": "estimate [direction of flight] (aircraft call sign) [squawking (ssr code)] (type) estimated (significant point) (time) (level) (or descending from (level) to (level)) [speed (filed tas)] (route) [remarks]."
+  },
+  {
+    "phraseId": 280,
+    "title": "estimate unmanned free balloon(s) (identification and classification) estimated over (place) at (time) reported flight level(s) (figure or figures) [or flight level unknown] moving (direction) estimated ground speed (figure) (other pertinent information, if any)."
+  },
+  {
+    "phraseId": 175,
+    "title": "expect (number) minutes delay due (reason)."
+  },
+  {
+    "phraseId": 115,
+    "title": "expect clearance (or type of clearance) at (time)."
+  },
+  {
+    "phraseId": 12,
+    "title": "expect climb (or descent) at (time or significant point)."
+  },
+  {
+    "phraseId": 172,
+    "title": "expect departure (time) start up at own discretion."
+  },
+  {
+    "phraseId": 371,
+    "title": "expect vector across (localiser course or radio aid) (reason)."
+  },
+  {
+    "phraseId": 161,
+    "title": "expected approach time (time)."
+  },
+  {
+    "phraseId": 297,
+    "title": "expedite clearance (aircraft call sign) [estimated] over (place) at (time) requests (level or route, etc.)."
+  },
+  {
+    "phraseId": 296,
+    "title": "expedite clearance (aircraft call sign) expected departure from (place) at (time)."
+  },
+  {
+    "phraseId": 10,
+    "title": "expedite climb (or descent) [until passing (level)]."
+  },
+  {
+    "phraseId": 210,
+    "title": "expedite crossing runway (number) traffic (aircraft type) (distance) kilometres (or miles) final [report vacated]"
+  },
+  {
+    "phraseId": 202,
+    "title": "expedite taxi [(reason)]."
+  },
+  {
+    "phraseId": 269,
+    "title": "expedite vacating"
+  },
+  {
+    "phraseId": 319,
+    "title": "fly heading (three digits), when able proceed direct (name) (significant point)."
+  },
+  {
+    "phraseId": 315,
+    "title": "fly heading (three digits)."
+  },
+  {
+    "phraseId": 192,
+    "title": "follow (description of other aircraft or vehicle)."
+  },
+  {
+    "phraseId": 427,
+    "title": "for departure squawk (code)."
+  },
+  {
+    "phraseId": 306,
+    "title": "for identification turn left (or right) heading (three digits)."
+  },
+  {
+    "phraseId": 90,
+    "title": "gbas (or sbas) unavailable."
+  },
+  {
+    "phraseId": 78,
+    "title": "gbas/sbas/mls/ils category (category) (serviceability state)."
+  },
+  {
+    "phraseId": 189,
+    "title": "give way to (description and position of other aircraft)."
+  },
+  {
+    "phraseId": 87,
+    "title": "gnss reported unreliable (or gnss may not be available [due to interference]). 1) in the vicinity of (location) (radius) [between (levels)]. or 2) in the area of (description) (or in (name) fir) [between (levels)]."
+  },
+  {
+    "phraseId": 259,
+    "title": "go around"
+  },
+  {
+    "phraseId": 422,
+    "title": "go around immediately [missed approach instructions] (reason)."
+  },
+  {
+    "phraseId": 295,
+    "title": "handover (aircraft call sign) [squawking (ssr code)] position (aircraft position) (level)."
+  },
+  {
+    "phraseId": 320,
+    "title": "heading is good."
+  },
+  {
+    "phraseId": 398,
+    "title": "heading is good."
+  },
+  {
+    "phraseId": 204,
+    "title": "hold (direction) of (position, runway number, etc.)."
+  },
+  {
+    "phraseId": 206,
+    "title": "hold (distance) from (position)."
+  },
+  {
+    "phraseId": 223,
+    "title": "hold position, cancel take-off i say again cancel take-off (reasons)."
+  },
+  {
+    "phraseId": 205,
+    "title": "hold position."
+  },
+  {
+    "phraseId": 207,
+    "title": "hold short of (position)"
+  },
+  {
+    "phraseId": 154,
+    "title": "hold visual [over] (position), (or between (two prominent landmarks))."
+  },
+  {
+    "phraseId": 491,
+    "title": "how do you read?"
+  },
+  {
+    "phraseId": 476,
+    "title": "hundred"
+  },
+  {
+    "phraseId": 492,
+    "title": "i say again"
+  },
+  {
+    "phraseId": 354,
+    "title": "identification lost [reasons] (instructions)."
+  },
+  {
+    "phraseId": 309,
+    "title": "identified [position]."
+  },
+  {
+    "phraseId": 424,
+    "title": "if going around (appropriate instructions)."
+  },
+  {
+    "phraseId": 27,
+    "title": "if no contact (instructions)."
+  },
+  {
+    "phraseId": 348,
+    "title": "if no transmissions received for (number) minutes (or seconds) (instructions)."
+  },
+  {
+    "phraseId": 17,
+    "title": "if unable (alternative instructions) and advise."
+  },
+  {
+    "phraseId": 350,
+    "title": "if you read [manoeuvre instructions or squawk (code or ident)]."
+  },
+  {
+    "phraseId": 379,
+    "title": "ils (or mls) runway (number) left (or right) localiser (or mls) frequency is (frequency)."
+  },
+  {
+    "phraseId": 394,
+    "title": "in case of go around (instructions)."
+  },
+  {
+    "phraseId": 333,
+    "title": "increase (or reduce) speed by (number) kilometres per hour (or knots)."
+  },
+  {
+    "phraseId": 332,
+    "title": "increase (or reduce) speed to (number) kilometres per hour (or knots) [or greater (or or less)]."
+  },
+  {
+    "phraseId": 376,
+    "title": "intercept (localiser course or radio aid) [report established]."
+  },
+  {
+    "phraseId": 284,
+    "title": "is (aircraft call sign) released [for climb (or descent)]."
+  },
+  {
+    "phraseId": 98,
+    "title": "join (specify) at (significant point) at (level) [at (time)]."
+  },
+  {
+    "phraseId": 237,
+    "title": "join [(direction of circuit)] (position in circuit) (runway number) [surface] wind (direction and speed) (units) [temperature [minus] (number)] qnh (or qfe) (number) [(units)] [traffic (detail)]."
+  },
+  {
+    "phraseId": 260,
+    "title": "landing gear appears down"
+  },
+  {
+    "phraseId": 66,
+    "title": "landing surface (condition)."
+  },
+  {
+    "phraseId": 312,
+    "title": "leave (significant point) heading (three digits)."
+  },
+  {
+    "phraseId": 97,
+    "title": "leave controlled airspace (or control zone) [via (significant point or route)] at (level) (or climbing, or descending)."
+  },
+  {
+    "phraseId": 216,
+    "title": "line up [and wait]."
+  },
+  {
+    "phraseId": 217,
+    "title": "line up. be ready for immediate departure."
+  },
+  {
+    "phraseId": 493,
+    "title": "maintain"
+  },
+  {
+    "phraseId": 374,
+    "title": "maintain (altitude) until glide path interception."
+  },
+  {
+    "phraseId": 101,
+    "title": "maintain (level) [to (significant point)]."
+  },
+  {
+    "phraseId": 103,
+    "title": "maintain (level) until (minutes) after passing (significant point)."
+  },
+  {
+    "phraseId": 104,
+    "title": "maintain (level) until (time)."
+  },
+  {
+    "phraseId": 105,
+    "title": "maintain (level) until advised by (name of unit)."
+  },
+  {
+    "phraseId": 106,
+    "title": "maintain (level) until further advised."
+  },
+  {
+    "phraseId": 102,
+    "title": "maintain (level) until passing (significant point)."
+  },
+  {
+    "phraseId": 107,
+    "title": "maintain (level) while in controlled airspace."
+  },
+  {
+    "phraseId": 329,
+    "title": "maintain (number) kilometres per hour (or knots) [or greater (or or less)] [until (significant point)]."
+  },
+  {
+    "phraseId": 108,
+    "title": "maintain block (level) to (level)."
+  },
+  {
+    "phraseId": 119,
+    "title": "maintain mach (number) [or greater (or or less)] [until (significant point)]."
+  },
+  {
+    "phraseId": 15,
+    "title": "maintain own separation and vmc [from (level)] [to (level)]."
+  },
+  {
+    "phraseId": 16,
+    "title": "maintain own separation and vmc above (or below, or to) (level)."
+  },
+  {
+    "phraseId": 148,
+    "title": "maintain own separation."
+  },
+  {
+    "phraseId": 331,
+    "title": "maintain present speed."
+  },
+  {
+    "phraseId": 149,
+    "title": "maintain vmc."
+  },
+  {
+    "phraseId": 323,
+    "title": "make a three sixty turn left (or right) [reason]."
+  },
+  {
+    "phraseId": 325,
+    "title": "make all turns rate one (or rate half, or (number) degrees per second) start and stop all turns on the command “now”."
+  },
+  {
+    "phraseId": 258,
+    "title": "make another circuit"
+  },
+  {
+    "phraseId": 249,
+    "title": "make full stop"
+  },
+  {
+    "phraseId": 243,
+    "title": "make long approach (or extend downwind)."
+  },
+  {
+    "phraseId": 242,
+    "title": "make short approach"
+  },
+  {
+    "phraseId": 255,
+    "title": "make straight-in (or circling approach, left (or right) turn to (location, runway, taxiway, final approach and take-off area)) [arrival (or arrival route) (number, name, or code)]. [hold short of (active runway, extended runway centre line, other)]. [remain (direction or distance) from (runway, runway centre line, other helicopter or aircraft)]. [caution (power lines, unlighted obstructions, wake turbulence, etc.)]. cleared to land."
+  },
+  {
+    "phraseId": 238,
+    "title": "make straight-in approach, runway (number) [surface] wind (direction and speed) (units) [temperature [minus] (number)] qnh (or qfe) (number) [(units)] [traffic (detail)]."
+  },
+  {
+    "phraseId": 287,
+    "title": "may we change clearance of (aircraft call sign) to (details of alteration proposed)."
+  },
+  {
+    "phraseId": 511,
+    "title": "mayday mayday mayday (reason)"
+  },
+  {
+    "phraseId": 494,
+    "title": "monitor"
+  },
+  {
+    "phraseId": 29,
+    "title": "monitor (unit call sign) (frequency)."
+  },
+  {
+    "phraseId": 495,
+    "title": "negative"
+  },
+  {
+    "phraseId": 298,
+    "title": "negative rvsm [(supplementary information, e.g. state aircraft)]."
+  },
+  {
+    "phraseId": 339,
+    "title": "next report at (significant point)."
+  },
+  {
+    "phraseId": 57,
+    "title": "next report at (significant point)."
+  },
+  {
+    "phraseId": 337,
+    "title": "no [atc] speed restrictions."
+  },
+  {
+    "phraseId": 160,
+    "title": "no delay expected."
+  },
+  {
+    "phraseId": 277,
+    "title": "no details"
+  },
+  {
+    "phraseId": 41,
+    "title": "no reported traffic"
+  },
+  {
+    "phraseId": 310,
+    "title": "not identified [reason], [resume (or continue) own navigation]."
+  },
+  {
+    "phraseId": 241,
+    "title": "number ... follow (aircraft type and position) [additional instructions if required]."
+  },
+  {
+    "phraseId": 456,
+    "title": "numbers in aircraft call signs"
+  },
+  {
+    "phraseId": 460,
+    "title": "numbers in altimeter setting"
+  },
+  {
+    "phraseId": 461,
+    "title": "numbers in altitude information"
+  },
+  {
+    "phraseId": 462,
+    "title": "numbers in cloud height"
+  },
+  {
+    "phraseId": 457,
+    "title": "numbers in flight levels"
+  },
+  {
+    "phraseId": 459,
+    "title": "numbers in runway designator"
+  },
+  {
+    "phraseId": 464,
+    "title": "numbers in runway visual range"
+  },
+  {
+    "phraseId": 458,
+    "title": "numbers in transponder codes"
+  },
+  {
+    "phraseId": 463,
+    "title": "numbers in visibility"
+  },
+  {
+    "phraseId": 338,
+    "title": "omit position reports [until (specify)]."
+  },
+  {
+    "phraseId": 58,
+    "title": "omit position reports [until (specify)]."
+  },
+  {
+    "phraseId": 405,
+    "title": "on glide path."
+  },
+  {
+    "phraseId": 399,
+    "title": "on track."
+  },
+  {
+    "phraseId": 257,
+    "title": "orbit (right, or left) [from present position]."
+  },
+  {
+    "phraseId": 324,
+    "title": "orbit left (or right) [reason]."
+  },
+  {
+    "phraseId": 497,
+    "title": "out"
+  },
+  {
+    "phraseId": 496,
+    "title": "over"
+  },
+  {
+    "phraseId": 414,
+    "title": "over approach lights."
+  },
+  {
+    "phraseId": 415,
+    "title": "over threshold"
+  },
+  {
+    "phraseId": 388,
+    "title": "over threshold."
+  },
+  {
+    "phraseId": 512,
+    "title": "pan pan, pan pan, pan pan, reason"
+  },
+  {
+    "phraseId": 75,
+    "title": "pilot reports (weather information)."
+  },
+  {
+    "phraseId": 311,
+    "title": "position (distance) (direction) of (significant point) (or over or abeam (significant point))."
+  },
+  {
+    "phraseId": 364,
+    "title": "position (number) kilometres (or miles) from (fix). turn left (or right) heading (three digits)."
+  },
+  {
+    "phraseId": 393,
+    "title": "precision approach not available due (reason) (alternative instructions)."
+  },
+  {
+    "phraseId": 49,
+    "title": "present weather (details)."
+  },
+  {
+    "phraseId": 356,
+    "title": "primary radar out of service (appropriate information as necessary)."
+  },
+  {
+    "phraseId": 122,
+    "title": "proceed offset (distance) right/left of (route) (track) [centre line] [at (significant point or time)] [until (significant point or time)]."
+  },
+  {
+    "phraseId": 174,
+    "title": "pushback [approved or at own discretion] or standby"
+  },
+  {
+    "phraseId": 453,
+    "title": "pushback completed."
+  },
+  {
+    "phraseId": 54,
+    "title": "qfe (number) [(units)]."
+  },
+  {
+    "phraseId": 53,
+    "title": "qnh (number) [units]."
+  },
+  {
+    "phraseId": 308,
+    "title": "radar contact [position]."
+  },
+  {
+    "phraseId": 352,
+    "title": "radar service (or identification) terminated [due (reason)] (instructions)."
+  },
+  {
+    "phraseId": 404,
+    "title": "rate of descent is good."
+  },
+  {
+    "phraseId": 430,
+    "title": "re-enter [ads-b or mode s] aircraft identification."
+  },
+  {
+    "phraseId": 498,
+    "title": "read back"
+  },
+  {
+    "phraseId": 499,
+    "title": "recleared"
+  },
+  {
+    "phraseId": 94,
+    "title": "recleared (amended clearance details) [rest of clearance unchanged]."
+  },
+  {
+    "phraseId": 95,
+    "title": "recleared (amended route portion) to (significant point of original route) [rest of clearance unchanged]."
+  },
+  {
+    "phraseId": 335,
+    "title": "reduce to minimum approach speed."
+  },
+  {
+    "phraseId": 336,
+    "title": "reduce to minimum clean speed."
+  },
+  {
+    "phraseId": 32,
+    "title": "remain this frequency."
+  },
+  {
+    "phraseId": 349,
+    "title": "reply not received (instructions)."
+  },
+  {
+    "phraseId": 396,
+    "title": "reply not received. will continue instructions."
+  },
+  {
+    "phraseId": 500,
+    "title": "report"
+  },
+  {
+    "phraseId": 61,
+    "title": "report (distance) miles (gnss or dme) from (name of dme station) (or significant point)."
+  },
+  {
+    "phraseId": 63,
+    "title": "report (gnss or dme) distance from (significant point) or (name of dme station)."
+  },
+  {
+    "phraseId": 145,
+    "title": "report (significant point). [outbound, or inbound]."
+  },
+  {
+    "phraseId": 231,
+    "title": "report airborne"
+  },
+  {
+    "phraseId": 244,
+    "title": "report base (or final, or long final)."
+  },
+  {
+    "phraseId": 146,
+    "title": "report commencing procedure turn."
+  },
+  {
+    "phraseId": 368,
+    "title": "report established on [ils] localiser (or on gbas/sbas/mls approach course)."
+  },
+  {
+    "phraseId": 375,
+    "title": "report established on glide path."
+  },
+  {
+    "phraseId": 56,
+    "title": "report flight conditions"
+  },
+  {
+    "phraseId": 305,
+    "title": "report heading [and flight level (or altitude)]."
+  },
+  {
+    "phraseId": 4,
+    "title": "report leaving (or reaching, or passing) (level)."
+  },
+  {
+    "phraseId": 60,
+    "title": "report passing (significant point)."
+  },
+  {
+    "phraseId": 62,
+    "title": "report passing (three digits) radial (name of vor) vor."
+  },
+  {
+    "phraseId": 140,
+    "title": "report runway [lights] in sight."
+  },
+  {
+    "phraseId": 390,
+    "title": "report runway [lights] in sight."
+  },
+  {
+    "phraseId": 419,
+    "title": "report runway [lights] in sight."
+  },
+  {
+    "phraseId": 328,
+    "title": "report speed"
+  },
+  {
+    "phraseId": 418,
+    "title": "report visual."
+  },
+  {
+    "phraseId": 389,
+    "title": "report visual."
+  },
+  {
+    "phraseId": 139,
+    "title": "report visual."
+  },
+  {
+    "phraseId": 85,
+    "title": "report when able to resume rvsm"
+  },
+  {
+    "phraseId": 213,
+    "title": "report when ready [for departure]."
+  },
+  {
+    "phraseId": 340,
+    "title": "reports required only at (significant point(s))."
+  },
+  {
+    "phraseId": 501,
+    "title": "request"
+  },
+  {
+    "phraseId": 366,
+    "title": "request (distance) final."
+  },
+  {
+    "phraseId": 152,
+    "title": "request (mls/rnav plain-language designator)."
+  },
+  {
+    "phraseId": 151,
+    "title": "request (type of approach) approach [runway (number)]."
+  },
+  {
+    "phraseId": 195,
+    "title": "request air-taxiing from (or via) to (location or routing as appropriate)."
+  },
+  {
+    "phraseId": 198,
+    "title": "request backtrack."
+  },
+  {
+    "phraseId": 30,
+    "title": "request change to (frequency)."
+  },
+  {
+    "phraseId": 208,
+    "title": "request cross runway (number)."
+  },
+  {
+    "phraseId": 180,
+    "title": "request departure information"
+  },
+  {
+    "phraseId": 226,
+    "title": "request departure instructions"
+  },
+  {
+    "phraseId": 13,
+    "title": "request descent at (time)."
+  },
+  {
+    "phraseId": 156,
+    "title": "request holding instructions."
+  },
+  {
+    "phraseId": 7,
+    "title": "request level (or flight level or altitude) change from (name of unit) [at (time or significant point)]."
+  },
+  {
+    "phraseId": 250,
+    "title": "request low approach (reasons)."
+  },
+  {
+    "phraseId": 252,
+    "title": "request low pass (reasons)."
+  },
+  {
+    "phraseId": 282,
+    "title": "request release of (aircraft call sign)."
+  },
+  {
+    "phraseId": 228,
+    "title": "request right (or left) turn"
+  },
+  {
+    "phraseId": 254,
+    "title": "request straight-in (or circling approach, left (or right) turn to (location))."
+  },
+  {
+    "phraseId": 137,
+    "title": "request straight-in [(type of approach)] approach [runway (number)]."
+  },
+  {
+    "phraseId": 178,
+    "title": "request time check."
+  },
+  {
+    "phraseId": 176,
+    "title": "request tow [company name] (aircraft type) from (location) to (location)."
+  },
+  {
+    "phraseId": 141,
+    "title": "request visual approach."
+  },
+  {
+    "phraseId": 147,
+    "title": "request vmc descent"
+  },
+  {
+    "phraseId": 429,
+    "title": "reset squawk [(mode)] (code)."
+  },
+  {
+    "phraseId": 410,
+    "title": "resume normal rate of descent."
+  },
+  {
+    "phraseId": 334,
+    "title": "resume normal speed"
+  },
+  {
+    "phraseId": 321,
+    "title": "resume own navigation (position of aircraft) (specific instructions)."
+  },
+  {
+    "phraseId": 322,
+    "title": "resume own navigation [direct] (significant point) [magnetic track (three digits) distance (number) kilometres (or miles)]."
+  },
+  {
+    "phraseId": 341,
+    "title": "resume position reporting."
+  },
+  {
+    "phraseId": 59,
+    "title": "resume position reporting."
+  },
+  {
+    "phraseId": 38,
+    "title": "revert to flight plan call sign (call sign) [at (significant point)]."
+  },
+  {
+    "phraseId": 162,
+    "title": "revised expected approach time (time)."
+  },
+  {
+    "phraseId": 281,
+    "title": "revision (aircraft call sign) (details as necessary)."
+  },
+  {
+    "phraseId": 229,
+    "title": "right (or left) turn approved"
+  },
+  {
+    "phraseId": 261,
+    "title": "right (or left, or nose) wheel appears up (or down)."
+  },
+  {
+    "phraseId": 263,
+    "title": "right (or left, or nose) wheel does not appear up (or down)."
+  },
+  {
+    "phraseId": 502,
+    "title": "roger"
+  },
+  {
+    "phraseId": 219,
+    "title": "runway (number) cleared for take-off [report airborne]."
+  },
+  {
+    "phraseId": 246,
+    "title": "runway (number) cleared to land"
+  },
+  {
+    "phraseId": 181,
+    "title": "runway (number), wind (direction and speed) (units) qnh (or qfe) (number) [(units)] temperature [minus] (number), [visibility (distance) (units) (or runway visual range (or rvr) (distance) (units))] [time (time)]."
+  },
+  {
+    "phraseId": 73,
+    "title": "runway (or taxiway) (number) wet [or damp, water patches, flooded (depth), or snow removed (length and width as applicable), or treated, or covered with patches of dry snow (or wet snow, or compacted snow, or slush, or frozen slush, or ice, or ice underneath, or ice and snow, or snowdrifts, or frozen ruts and ridges)]."
+  },
+  {
+    "phraseId": 70,
+    "title": "runway report at (observation time) runway (number) (type of precipitant) up to (depth of deposit) millimetres. braking action good (or medium to good, or medium, or medium to poor, or poor or unreliable) [and/or braking coefficient (equipment and number)]."
+  },
+  {
+    "phraseId": 45,
+    "title": "runway visual range (or rvr) [runway (number)] (distance) (units)."
+  },
+  {
+    "phraseId": 47,
+    "title": "runway visual range (or rvr) [runway (number)] (first position) (distance) (units), (second position) (distance) (units), (third position) (distance) (units)."
+  },
+  {
+    "phraseId": 48,
+    "title": "runway visual range (or rvr) [runway (number)] (first position) (distance) (units), (second position) not available, (third position) (distance) (units)."
+  },
+  {
+    "phraseId": 46,
+    "title": "runway visual range (or rvr) runway (number) not available (or not reported)."
+  },
+  {
+    "phraseId": 503,
+    "title": "say again"
+  },
+  {
+    "phraseId": 355,
+    "title": "secondary radar out of service (appropriate information as necessary)."
+  },
+  {
+    "phraseId": 164,
+    "title": "show landing lights."
+  },
+  {
+    "phraseId": 406,
+    "title": "slightly (or well, or going) above (or below) glide path."
+  },
+  {
+    "phraseId": 400,
+    "title": "slightly (or well, or going) left (or right) of track."
+  },
+  {
+    "phraseId": 504,
+    "title": "speak slower"
+  },
+  {
+    "phraseId": 428,
+    "title": "squawk (code)."
+  },
+  {
+    "phraseId": 432,
+    "title": "squawk [(code)] [and] ident."
+  },
+  {
+    "phraseId": 440,
+    "title": "squawk charlie."
+  },
+  {
+    "phraseId": 433,
+    "title": "squawk low."
+  },
+  {
+    "phraseId": 437,
+    "title": "squawk mayday [code seven-seven-zero-zero]."
+  },
+  {
+    "phraseId": 434,
+    "title": "squawk normal."
+  },
+  {
+    "phraseId": 436,
+    "title": "squawk standby."
+  },
+  {
+    "phraseId": 28,
+    "title": "stand by for (unit call sign) (frequency)."
+  },
+  {
+    "phraseId": 505,
+    "title": "standby"
+  },
+  {
+    "phraseId": 170,
+    "title": "start up approved."
+  },
+  {
+    "phraseId": 444,
+    "title": "stop ads-b altitude transmission [(wrong indication, or reason)]."
+  },
+  {
+    "phraseId": 439,
+    "title": "stop ads-b transmission [squawk (code) only]."
+  },
+  {
+    "phraseId": 8,
+    "title": "stop climb (or descent) at (level)."
+  },
+  {
+    "phraseId": 224,
+    "title": "stop immediately [(repeat aircraft call sign) stop immediately]."
+  },
+  {
+    "phraseId": 438,
+    "title": "stop squawk [transmit ads-b only]."
+  },
+  {
+    "phraseId": 443,
+    "title": "stop squawk charlie wrong indication"
+  },
+  {
+    "phraseId": 318,
+    "title": "stop turn heading (three digits)."
+  },
+  {
+    "phraseId": 327,
+    "title": "stop turn now."
+  },
+  {
+    "phraseId": 187,
+    "title": "take (or turn) first (or second) left (or right)."
+  },
+  {
+    "phraseId": 271,
+    "title": "take (or turn) first (or second, or convenient) left (or right) and contact ground (frequency)."
+  },
+  {
+    "phraseId": 222,
+    "title": "take off immediately or hold short of runway."
+  },
+  {
+    "phraseId": 221,
+    "title": "take off immediately or vacate runway [(instructions)]."
+  },
+  {
+    "phraseId": 373,
+    "title": "taking you through (localiser course or radio aid) [reason]."
+  },
+  {
+    "phraseId": 188,
+    "title": "taxi [via (identification of taxiway)] or [straight ahead] and/or. [with caution]"
+  },
+  {
+    "phraseId": 191,
+    "title": "taxi into holding bay."
+  },
+  {
+    "phraseId": 186,
+    "title": "taxi to holding point [number] (followed by aerodrome information as applicable) [time (time)]."
+  },
+  {
+    "phraseId": 183,
+    "title": "taxi to holding point [number] [runway (number)] [hold short of runway (number) (or cross runway (number))] [time (time)]."
+  },
+  {
+    "phraseId": 185,
+    "title": "taxi to holding point [number] [runway (number)] via (specific route to be followed) [time (time)] [hold short of runway (number) (or cross runway (number))]."
+  },
+  {
+    "phraseId": 211,
+    "title": "taxi to holding point [number] [runway (number)] via (specific route to be followed), [hold short of runway (number)] or [cross runway (number)]. [report vacated]"
+  },
+  {
+    "phraseId": 194,
+    "title": "taxi to terminal (or other location, e.g. general aviation area) [stand (number)]."
+  },
+  {
+    "phraseId": 193,
+    "title": "taxi via runway (number)."
+  },
+  {
+    "phraseId": 79,
+    "title": "taxiway lighting (description of deficiency)."
+  },
+  {
+    "phraseId": 19,
+    "title": "tcas ra."
+  },
+  {
+    "phraseId": 52,
+    "title": "temperature [minus] (number) (and/or dewpoint [minus] (number))."
+  },
+  {
+    "phraseId": 372,
+    "title": "this turn will take you through (localiser course or radio aid) [reason]."
+  },
+  {
+    "phraseId": 392,
+    "title": "this will be a precision radar approach runway (number)."
+  },
+  {
+    "phraseId": 382,
+    "title": "this will be a surveillance radar approach runway (number) terminating at (distance) from touchdown, obstacle clearance altitude (or height) (number) metres (or feet) check your minima [in case of go around (instructions)]."
+  },
+  {
+    "phraseId": 477,
+    "title": "thousand"
+  },
+  {
+    "phraseId": 179,
+    "title": "time (time)."
+  },
+  {
+    "phraseId": 177,
+    "title": "tow approved via (specific routing to be followed). or hold position or stand by"
+  },
+  {
+    "phraseId": 74,
+    "title": "tower observes (weather information)."
+  },
+  {
+    "phraseId": 128,
+    "title": "track (three digits) degrees [magnetic (or true)] to (or from) (significant point) until (time, or reaching (fix or significant point or level)) [before proceeding on course]."
+  },
+  {
+    "phraseId": 234,
+    "title": "track extended centre line (instructions)."
+  },
+  {
+    "phraseId": 39,
+    "title": "traffic (information)"
+  },
+  {
+    "phraseId": 342,
+    "title": "traffic (number) o’clock (distance) (direction of flight) [any other pertinent information]: 1) unknown. 2) slow moving. 3) fast moving. 4) closing. 5) opposite (or same) direction. 6) overtaking. 7) crossing left to right (or right to left). 8) (aircraft type). 9) (level). 10) climbing (or descending)."
+  },
+  {
+    "phraseId": 190,
+    "title": "traffic (or type of aircraft) in sight."
+  },
+  {
+    "phraseId": 441,
+    "title": "transmit ads-b altitude"
+  },
+  {
+    "phraseId": 435,
+    "title": "transmit ads-b ident."
+  },
+  {
+    "phraseId": 307,
+    "title": "transmit for identification and report heading."
+  },
+  {
+    "phraseId": 317,
+    "title": "turn left (or right) (number of degrees) degrees [reason]."
+  },
+  {
+    "phraseId": 346,
+    "title": "turn left (or right) (number of degrees) degrees immediately to avoid [unidentified] traffic at (bearing by clock-reference and distance)."
+  },
+  {
+    "phraseId": 380,
+    "title": "turn left (or right) (number) degrees (or heading) (three digits) immediately to avoid traffic [deviating from adjacent approach], climb to (altitude)."
+  },
+  {
+    "phraseId": 316,
+    "title": "turn left (or right) heading (three digits) [reason]."
+  },
+  {
+    "phraseId": 370,
+    "title": "turn left (or right) heading (three digits) [to intercept] or [report established]."
+  },
+  {
+    "phraseId": 345,
+    "title": "turn left (or right) immediately heading (three digits) to avoid [unidentified] traffic (bearing by clock-reference and distance)."
+  },
+  {
+    "phraseId": 326,
+    "title": "turn left (or right) now"
+  },
+  {
+    "phraseId": 126,
+    "title": "turn right (or left) heading (three digits) to (level) [to intercept (track, route, airway, etc.)]."
+  },
+  {
+    "phraseId": 506,
+    "title": "unable"
+  },
+  {
+    "phraseId": 286,
+    "title": "unable (aircraft call sign) [traffic is (details)]."
+  },
+  {
+    "phraseId": 289,
+    "title": "unable (aircraft call sign)."
+  },
+  {
+    "phraseId": 290,
+    "title": "unable (desired route, level, etc.) [for (aircraft call sign)] [due (reason)] (alternative clearance proposed)."
+  },
+  {
+    "phraseId": 82,
+    "title": "unable issue clearance into rvsm airspace, maintain [or descend to, or climb to] (level)."
+  },
+  {
+    "phraseId": 91,
+    "title": "unable rnp (specify type) (or rnav) [due to (reason, e.g. loss of raim or raim alert)]."
+  },
+  {
+    "phraseId": 84,
+    "title": "unable rvsm due equipment"
+  },
+  {
+    "phraseId": 83,
+    "title": "unable rvsm due turbulence"
+  },
+  {
+    "phraseId": 299,
+    "title": "unable rvsm due turbulence (or equipment, as applicable)."
+  },
+  {
+    "phraseId": 212,
+    "title": "unable to issue (designator) departure (reasons)"
+  },
+  {
+    "phraseId": 22,
+    "title": "unable, tcas ra"
+  },
+  {
+    "phraseId": 116,
+    "title": "unable, traffic (direction) bound (type of aircraft) (level) estimated (or over) (significant point) at (time) call sign (call sign) advise intentions."
+  },
+  {
+    "phraseId": 18,
+    "title": "unable."
+  },
+  {
+    "phraseId": 201,
+    "title": "vacate runway."
+  },
+  {
+    "phraseId": 360,
+    "title": "vectoring for (positioning in the circuit)."
+  },
+  {
+    "phraseId": 358,
+    "title": "vectoring for (type of pilot-interpreted aid) approach runway (number)."
+  },
+  {
+    "phraseId": 362,
+    "title": "vectoring for precision approach runway (number)."
+  },
+  {
+    "phraseId": 361,
+    "title": "vectoring for surveillance radar approach runway (number)."
+  },
+  {
+    "phraseId": 359,
+    "title": "vectoring for visual approach runway (number) report field (or runway) in sight."
+  },
+  {
+    "phraseId": 44,
+    "title": "visibility (distance) (units) [direction]."
+  },
+  {
+    "phraseId": 262,
+    "title": "wheels appear up"
+  },
+  {
+    "phraseId": 11,
+    "title": "when ready climb (or descend) to (level)."
+  },
+  {
+    "phraseId": 31,
+    "title": "when ready contact (unit call sign) (frequency)."
+  },
+  {
+    "phraseId": 268,
+    "title": "when vacated contact ground (frequency)."
+  },
+  {
+    "phraseId": 507,
+    "title": "wilco"
+  },
+  {
+    "phraseId": 230,
+    "title": "will advise later for right (or left) turn"
+  },
+  {
+    "phraseId": 353,
+    "title": "will shortly lose identification (appropriate instructions or information)."
+  },
+  {
+    "phraseId": 43,
+    "title": "wind at (level) (number) degrees (number) kilometres per hour (or knots)."
+  },
+  {
+    "phraseId": 508,
+    "title": "words twice"
+  },
+  {
+    "phraseId": 378,
+    "title": "you have crossed the localiser (or gbas/sbas/mls final approach course). turn left (or right) immediately and return to the localiser (or gbas/sbas/mls final approach course)."
+  },
+  {
+    "phraseId": 365,
+    "title": "you will intercept (radio aid or track) (distance) from (significant point or touchdown)."
+  },
+  {
+    "phraseId": 270,
+    "title": "your stand (or gate) (designation)."
+  }
+]
