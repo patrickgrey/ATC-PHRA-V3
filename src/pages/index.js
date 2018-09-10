@@ -9,12 +9,7 @@ const IndexPage = ({ data }) => (
   <Layout>
     <h1>Hi people</h1>
     <Search />
-    <noscript>
-      <p>
-        Javascript is turned off. You can still use the links opposite but
-        Javascript is needed for more interactive phrase searches.
-      </p>
-    </noscript>
+
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <ul>

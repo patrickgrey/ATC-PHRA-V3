@@ -1,5 +1,6 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
+import '../styles/layout.css'
 
 class Layout extends React.Component {
   render() {
@@ -11,6 +12,10 @@ class Layout extends React.Component {
           <html lang="en-GB" className={IS_SSR ? 'no-js' : 'js'} />
           <title>Search phrases</title>
           <meta charSet="utf-8" />
+          <meta
+            name="Description"
+            content="Search and get detail about common phraseology used in air traffic control."
+          />
           <script type="text/javascript">
             document.documentElement.className =
             document.documentElement.className.replace(/\\bno-js\\b/,'js');
