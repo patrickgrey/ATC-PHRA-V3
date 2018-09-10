@@ -1,16 +1,23 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
+import { Helmet } from 'react-helmet'
 
-import Layout from '../components/layout'
+import Layout from '../layouts/layout'
 
 const IndexPage = ({ data }) => (
   <Layout>
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
-    {data.allPhrasesJson.edges.map(({ node }) => (
-      <p key={node.phraseId}>{node.title}</p>
-    ))}
+    <ul>
+      {data.allPhrasesJson.edges.map(({ node }) => (
+        <li key={node.phraseId}>
+          <p>
+            <Link to={'/phrases/phrase' + node.phraseId}>{node.title}</Link>
+          </p>
+        </li>
+      ))}
+    </ul>
   </Layout>
 )
 

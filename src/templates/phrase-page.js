@@ -1,12 +1,18 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
+import Layout from '../layouts/layout'
+import { Helmet } from 'react-helmet'
 
 export default ({ data }) => {
   const phrase = data.phrasesJson
   return (
-    <div>
-      <h1>{phrase.title}</h1>
-    </div>
+    <Layout>
+      <Helmet title={'Phrase: ' + phrase.title} />
+      <h2>{phrase.title}</h2>
+      <p>
+        <Link to="/">Search phrases</Link>
+      </p>
+    </Layout>
   )
 }
 
