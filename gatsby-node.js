@@ -30,7 +30,7 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        allPhrasesJson {
+        allPhrasesJson(limit: 10) {
           edges {
             node {
               fields {
