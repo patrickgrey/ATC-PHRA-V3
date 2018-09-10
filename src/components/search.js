@@ -8,7 +8,7 @@ class Search extends React.Component {
   render() {
     return (
       <div>
-        <div class="phra-js-hide">
+        <div className="phra-js-hide">
           <p>Current count: {this.state.count}</p>
           <button
             onClick={() => this.setState({ count: this.state.count + 1 })}
