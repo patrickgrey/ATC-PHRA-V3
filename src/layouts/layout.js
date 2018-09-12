@@ -16,6 +16,7 @@ class Layout extends React.Component {
             name="Description"
             content="Search and get detail about common phraseology used in air traffic control."
           />
+          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
           <script type="text/javascript">
             document.documentElement.className =
             document.documentElement.className.replace(/\\bno-js\\b/,'js');

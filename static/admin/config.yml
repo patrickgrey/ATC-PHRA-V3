@@ -12,10 +12,7 @@ collections:
       - file: src/data/phrases.json
         label: Phrases
         name: phrases
+        widget: list
         fields:
-          label: Phrase
-          name: phrase
-          widget: list
-          fields:
-            - { label: Title, name: title, widget: string }
-            - { label: ID, name: phraseId, widget: string }
+          - { label: Title, name: title, widget: string }
+          - { label: ID, name: phraseId, widget: string }
