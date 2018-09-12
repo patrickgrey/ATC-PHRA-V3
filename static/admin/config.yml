@@ -1,5 +1,7 @@
 backend:
   name: git-gateway
+#https://www.chrisanthropic.com/blog/2018/adding-netlifycms-to-jekyll-secure-with-netlify-identity-git-gateway/
+#
 
 media_folder: static/images
 public_folder: /images
