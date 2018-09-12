@@ -10,7 +10,7 @@ collections:
       - label: 'Phrase'
         name: 'phrase'
         format: 'json'
-        file: 'src/data/phrases.json'
+        file: 'scr/data/phrases.json'
         fields:
           - { label: ID, name: phraseId, widget: string }
           - { label: Title, name: title, widget: string }
