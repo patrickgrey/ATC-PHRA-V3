@@ -3,7 +3,7 @@ backend:
 
 media_folder: static/images
 public_folder: /images
-
+#G!nger007
 collections:
   - name: pages
     label: Pages
@@ -13,9 +13,9 @@ collections:
         label: Phrases
         name: phrases
         fields:
-          label: Phrase
-          name: phrase
-          widget: list
-          fields:
-            - { label: Title, name: title, widget: string }
-            - { label: ID, name: phraseId, widget: string }
+          - label: Phrase
+            name: phrase
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: ID, name: phraseId, widget: string }
