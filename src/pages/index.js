@@ -14,11 +14,11 @@ const IndexPage = ({ data }) => (
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <ul>
-      {data.allPhrasesJson.edges.map(({ node }) => (
+      {data.allPhrasesJson.edges.map(phrase => (
         <PhraseLink
-          key={node.phraseId}
-          phraseId={node.phraseId}
-          title={node.title}
+          key={phrase.node.phraseId}
+          phraseId={phrase.node.phraseId}
+          title={phrase.node.title}
         />
       ))}
     </ul>
@@ -27,7 +27,7 @@ const IndexPage = ({ data }) => (
 
 export const query = graphql`
   query {
-    allPhrasesJson(limit: 10) {
+    allPhrasesJson {
       edges {
         node {
           phraseId

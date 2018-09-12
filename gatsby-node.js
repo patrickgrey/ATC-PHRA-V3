@@ -3,17 +3,15 @@
  *
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
+//https://stackoverflow.com/questions/49456106/how-to-make-a-one-to-many-connection-between-netlify-cms-and-gatsby/49456107#49456107
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
-
 exports.onCreateNode = ({ node, getNode, actions }) => {
-  // console.log('outside: ', node.internal.type)
   const { createNodeField } = actions
   if (node.internal.type === `PhrasesJson`) {
-    // console.log(node.phraseId)
-    // const phraseId = getNode(node.phraseId)
+    // console.log(node)
     const slug =
-      createFilePath({ node, getNode, basePath: `pages` }) +
+      createFilePath({ node, getNode, basePath: 'pages' }) +
       'phrase' +
       node.phraseId +
       '/'
@@ -30,9 +28,11 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        allPhrasesJson(limit: 10) {
+        allPhrasesJson {
           edges {
             node {
+              phraseId
+              title
               fields {
                 slug
               }
@@ -41,16 +41,21 @@ exports.createPages = ({ graphql, actions }) => {
         }
       }
     `).then(result => {
-      result.data.allPhrasesJson.edges.forEach(({ node }) => {
+      // console.log(result.data.allPhrasesJson.edges[4])
+      result.data.allPhrasesJson.edges.forEach(phrase => {
+        // console.log(phrase)
+        // edge.node.phrases.forEach(({ phrase }) => {
         createPage({
-          path: node.fields.slug,
+          path: phrase.node.fields.slug,
           component: path.resolve(`./src/templates/phrase-page.js`),
           context: {
             // Data passed to context is available
             // in page queries as GraphQL variables.
-            slug: node.fields.slug,
+            // phraseID: phrase.node.phraseId,
+            slug: phrase.node.fields.slug,
           },
         })
+        // })
       })
       resolve()
     })

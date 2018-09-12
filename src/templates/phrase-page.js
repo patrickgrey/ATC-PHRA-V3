@@ -9,6 +9,7 @@ export default ({ data }) => {
     <Layout>
       <Helmet title={'Phrase: ' + phrase.title} />
       <h2>{phrase.title}</h2>
+      <p>{phrase.phraseId}</p>
       <p>
         <Link to="/">Search phrases</Link>
       </p>
@@ -19,6 +20,7 @@ export default ({ data }) => {
 export const query = graphql`
   query($slug: String!) {
     phrasesJson(fields: { slug: { eq: $slug } }) {
+      phraseId
       title
     }
   }

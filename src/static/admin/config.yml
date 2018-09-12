@@ -1,0 +1,18 @@
+backend:
+  name: test-repo
+
+collections:
+- label: "Setup"
+    name: "setup"
+    files:
+    - label: "Connect"
+          name: "connect"
+          format: 'json'
+          file: "content/setup/connect.json"
+          fields:
+            - label: 'Links'
+              name: 'connectlinks'
+              widget: 'list'
+              fields:
+                - {label: Link Name, name: name, widget: string}
+                - {label: URL, name: url, widget: string}

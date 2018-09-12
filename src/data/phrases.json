@@ -4,12 +4,12 @@
     "title": "(aircraft call sign) cleared to."
   },
   {
-    "phraseId": 447,
-    "title": "(aircraft call sign) low altitude warning, check your altitude immediately, qnh is (number) [(units)]. [the minimum flight altitude is (altitude)]."
-  },
-  {
     "phraseId": 285,
     "title": "(aircraft call sign) not released [until (time or significant point)]."
+  },
+  {
+    "phraseId": 447,
+    "title": "(aircraft call sign) low altitude warning, check your altitude immediately, qnh is (number) [(units)]. [the minimum flight altitude is (altitude)]."
   },
   {
     "phraseId": 283,
