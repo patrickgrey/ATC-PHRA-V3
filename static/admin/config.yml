@@ -3,7 +3,7 @@ backend:
 
 media_folder: static/images
 public_folder: /images
-#G!nger007
+#G!nger007 - not reading in - need to trigger rebuild after submit too?
 collections:
   - name: pages
     label: Pages
