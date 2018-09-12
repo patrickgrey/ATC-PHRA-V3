@@ -1,16 +1,21 @@
 backend:
-  name: test-repo
+  name: git-gateway
+
+media_folder: static/images
+public_folder: /images
 
 collections:
-  - label: 'Phrases'
-    name: 'phrases'
-    folder: 'phrases'
-    create: true
+  - name: pages
+    label: Pages
+    format: json
     files:
-      - label: 'Phrase'
-        name: 'phrase'
-        format: 'json'
-        file: 'scr/data/phrases.json'
+      - file: src/data/phrases.json
+        label: Phrases
+        name: phrases
         fields:
-          - { label: ID, name: phraseId, widget: string }
-          - { label: Title, name: title, widget: string }
+          label: Phrase
+          name: phrase
+          widget: list
+          fields:
+            - { label: Title, name: title, widget: string }
+            - { label: ID, name: phraseId, widget: string }
