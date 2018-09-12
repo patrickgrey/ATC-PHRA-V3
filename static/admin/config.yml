@@ -1,7 +1,5 @@
 backend:
   name: git-gateway
-#https://www.chrisanthropic.com/blog/2018/adding-netlifycms-to-jekyll-secure-with-netlify-identity-git-gateway/
-#
 
 media_folder: static/images
 public_folder: /images
@@ -14,7 +12,10 @@ collections:
       - file: src/data/phrases.json
         label: Phrases
         name: phrases
-        widget: list
         fields:
-          - { label: Title, name: title, widget: string }
-          - { label: ID, name: phraseId, widget: string }
+          label: Phrase
+          name: phrase
+          widget: list
+          fields:
+            - { label: Title, name: title, widget: string }
+            - { label: ID, name: phraseId, widget: string }
