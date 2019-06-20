@@ -23,6 +23,16 @@
   <title>Phraseology</title>
 </svelte:head>
 
+<!-- 
+  
+  TODO:
+  - Build json API and try to get that working. Or better to somehow embed data?
+  - Get Svelte to consume JSON: https://www.valentinog.com/blog/svelte/
+  - IE11 seems to default to no JS version. Polyfill? Drop IE11?
+  - 
+  
+ -->
+
 {#each phrasesArray as phrase (phrase[0])}
   <p>
     <!-- <a href="./phrase/{phrase[0]}">{phrase[1].s}</a> -->
