@@ -3,6 +3,18 @@
   import PhraseLink from "../components/PhraseLink.svelte";
   import PhraseDetail from "../components/PhraseDetail.svelte";
   let phrases = Phrases;
+
+  if (!Object.entries) {
+    Object.entries = function(obj) {
+      var ownProps = Object.keys(obj),
+        i = ownProps.length,
+        resArray = new Array(i); // preallocate the Array
+      while (i--) resArray[i] = [ownProps[i], obj[ownProps[i]]];
+
+      return resArray;
+    };
+  }
+
   let phrasesArray = Object.entries(phrases);
   let showDetail = false;
 
@@ -29,7 +41,8 @@
   - Build json API and try to get that working. Or better to somehow embed data?
   - Get Svelte to consume JSON: https://www.valentinog.com/blog/svelte/
   - IE11 seems to default to no JS version. Polyfill? Drop IE11?
-  - 
+  - http://blog.az.sg/posts/svelte-and-ie11/
+  - https://github.com/sveltejs/svelte/issues/2621
   
  -->
 
